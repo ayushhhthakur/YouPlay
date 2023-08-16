@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+markdown
+Copy code
 # YouPlay: Open-Source YouTube Clone
 
 YouPlay is a remarkable open-source endeavor that mirrors the captivating essence of YouTube. Crafted with a medley of HTML, CSS, and JavaScript, it delivers a seamless video-sharing platform experience reminiscent of the original.
@@ -74,6 +75,3 @@ This grand spectacle is bound by the enchanting charm of the MIT License.
 ---
 
 Step onto the grand stage and let's compose an unforgettable saga of video sharing! 🎥 [Experience YouPlay](https://youplay-showcase.netlify.app/)
-=======
-# Youtube Clone
->>>>>>> 5340621f00b7244539b273fd79c186f2d96d258f
