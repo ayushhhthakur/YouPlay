@@ -15,7 +15,7 @@ YouPlay is a remarkable open-source endeavor that mirrors the captivating essenc
 To step into the spotlight with YouPlay, follow these spotlight-worthy steps:
 
 1. Clone the curtain:
-git clone https://github.com/your-username/youplay.git
+git clone https://github.com/ayushhhthakur/youplay.git
 
 
 
@@ -41,7 +41,7 @@ The YouPlay community is a symphony of collaborative creativity. Your contributi
 1. Casting Call: Fork the script repository.
 
 2. Rehearse Your Lines: Clone your fork:
-git clone https://github.com/your-username/youplay.git
+git clone https://github.com/ayushhhthakur/youplay.git
 
 
 
