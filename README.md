@@ -17,14 +17,13 @@ To step into the spotlight with YouPlay, follow these spotlight-worthy steps:
 1. Clone the curtain:
 git clone https://github.com/your-username/youplay.git
 
-markdown
-Copy code
+
+
 
 2. Take center stage:
 cd YouPlay
 
-markdown
-Copy code
+
 
 3. Raise the curtain: Launch `index.html` in your web browser (Tip: Opt for Live Server to amplify the showmanship).
 
@@ -44,22 +43,18 @@ The YouPlay community is a symphony of collaborative creativity. Your contributi
 2. Rehearse Your Lines: Clone your fork:
 git clone https://github.com/your-username/youplay.git
 
-sql
-Copy code
+
 
 3. Write Your Scene: Create a new branch for your act:
 git checkout -b feature/your-feature-name
 
-sql
-Copy code
+
 
 4. Encore Worthy Edits: Make changes, take a bow with a commit, and set the stage for greatness:
 git add .
 git commit -m "Add your dramatic commit message"
 git push origin feature/your-feature-name
 
-yaml
-Copy code
 
 5. Applause-Worthy Contribution: Raise the curtain by opening a pull request on the main repository.
 
@@ -74,4 +69,4 @@ This grand spectacle is bound by the enchanting charm of the MIT License.
 
 ---
 
-Step onto the grand stage and let's compose an unforgettable saga of video sharing! 🎥 [Experience YouPlay](https://youplay-showcase.netlify.app/)
+Step onto the grand stage and let's compose an unforgettable saga of video sharing! 🎥 [Experience YouPlay](https://youplay.netlify.app/)
