@@ -4,7 +4,11 @@ Copy code
 
 YouPlay is a remarkable open-source endeavor that mirrors the captivating essence of YouTube. Crafted with a medley of HTML, CSS, and JavaScript, it delivers a seamless video-sharing platform experience reminiscent of the original.
 
+## Technologies at Play
 
+- HTML
+- CSS
+- JavaScript
 
 ## Let the Show Begin
 
